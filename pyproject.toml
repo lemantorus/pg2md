@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pg2md"
-version = "1.0.0"
+version = "1.0.2"
 description = "HTML to Markdown converter with Requests or Playwright backend"
 readme = "README.md"
 license = {text = "MIT"}

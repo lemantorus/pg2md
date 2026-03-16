@@ -1,4 +1,4 @@
-# pg2md
+# **p**g2**md** — **P**a**g**e to **M**ark**d**own
 
 **HTML to Markdown converter** with Requests or Playwright backend.
 
